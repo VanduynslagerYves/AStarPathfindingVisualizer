@@ -1,4 +1,6 @@
-"# AStarPathfindingVisualizer" 
+# AStarPathfindingVisualizer
+
+## Description
 
 - AStarConsole is a visualization within the console
 - AStarWPF is a visualization within WPF
